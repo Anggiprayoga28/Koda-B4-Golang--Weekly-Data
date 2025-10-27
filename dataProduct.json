@@ -48,5 +48,10 @@
     "Id": 10,
     "Name": "Vanilla Sweet Cream Cold Brew",
     "Price": 56000
+},
+{
+    "Id": 11,
+    "Name": "Mineral",
+    "Price": 10000
 }
 ]
