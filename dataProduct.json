@@ -1,0 +1,52 @@
+[
+    {
+    "Id": 1,
+    "Name" :"Caffè Americano (Tall)",
+    "Price": 39000
+},
+{
+    "Id": 2,
+    "Name": "Caffè Americano (Tall)",
+    "Price": 45000
+},
+{
+    "Id": 3,
+    "Name": "Cappuccino (Tall)",
+    "Price": 45000
+},
+{
+    "Id": 4,
+    "Name": "Caramel Macchiato (Tall)",
+    "Price": 55000
+},
+{
+    "Id": 5,
+    "Name": "Espresso (Double Shot)",
+    "Price": 35000
+},
+{
+    "Id": 6,
+    "Name": "Mocha Frappucinno",
+    "Price": 58000
+},
+{
+    "Id": 7,
+    "Name": "Java Chip Frappuccino",
+    "Price": 60000
+},
+{
+    "Id": 8,
+    "Name": "Green Tea Latte",
+    "Price": 55000
+},
+{
+    "Id": 9,
+    "Name": "Signature Chocolate",
+    "Price": 52000
+},
+{
+    "Id": 10,
+    "Name": "Vanilla Sweet Cream Cold Brew",
+    "Price": 56000
+}
+]
